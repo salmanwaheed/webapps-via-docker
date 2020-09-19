@@ -10,8 +10,7 @@
   * [jsp-demo](https://github.com/salmanwaheed/jsp-demo)
   * [wordpress-demo](https://github.com/salmanwaheed/wordpress-demo)
   * [ror-demo](https://github.com/salmanwaheed/ror-demo)
-  <!-- * [laravel-demo](https://github.com/salmanwaheed/laravel-demo) -->
-  <!-- * [symfony-demo](https://github.com/salmanwaheed/symfony-demo) -->
+  * [laravel-and-symfony-demo](https://github.com/salmanwaheed/laravel-and-symfony-demo)
   <!-- * [spring-demo](https://github.com/salmanwaheed/spring-demo) -->
   <!-- * [golang-demo](https://github.com/salmanwaheed/golang-demo) -->
 3. start `docker-compose up -d`
