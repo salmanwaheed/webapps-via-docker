@@ -2,14 +2,15 @@
 
 1. clone [devops-box](https://github.com/salmanwaheed/devops-box) and run virtual machine
 2. choose your app and clone it
-  * [phpmyadmin-demo](https://github.com/salmanwaheed/phpmyadmin-demo)
+  * required:
+    * [nginx-proxy](https://github.com/salmanwaheed/nginx-proxy)
+    * [phpmyadmin-demo](https://github.com/salmanwaheed/phpmyadmin-demo)
   * [nodejs-demo](https://github.com/salmanwaheed/nodejs-demo)
   * [django-demo](https://github.com/salmanwaheed/django-demo)
   * [flask-demo](https://github.com/salmanwaheed/flask-demo)
-  * [nginx-proxy](https://github.com/salmanwaheed/nginx-proxy)
-  * [jsp-demo](https://github.com/salmanwaheed/jsp-demo)
   * [wordpress-demo](https://github.com/salmanwaheed/wordpress-demo)
   * [ror-demo](https://github.com/salmanwaheed/ror-demo)
+  * [jsp-demo](https://github.com/salmanwaheed/jsp-demo)
   * [laravel-and-symfony-demo](https://github.com/salmanwaheed/laravel-and-symfony-demo)
   <!-- * [spring-demo](https://github.com/salmanwaheed/spring-demo) -->
   <!-- * [golang-demo](https://github.com/salmanwaheed/golang-demo) -->
