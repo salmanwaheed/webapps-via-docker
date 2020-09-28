@@ -5,6 +5,7 @@
   * required:
     * [nginx-proxy](https://github.com/salmanwaheed/nginx-proxy)
     * [phpmyadmin-demo](https://github.com/salmanwaheed/phpmyadmin-demo)
+    * [postgresql-demo](https://github.com/salmanwaheed/postgresql-demo)
   * [nodejs-demo](https://github.com/salmanwaheed/nodejs-demo)
   * [django-demo](https://github.com/salmanwaheed/django-demo)
   * [flask-demo](https://github.com/salmanwaheed/flask-demo)
@@ -18,7 +19,7 @@
 4. build or re-build image + start `docker-compose up -d --build --force-recreate`
 5. stop `docker-compose down`
 
-### run any linux command without going inside the container 
+### run any linux command without going inside the container
 ```bash
 docker run --rm -it -v $PWD:/src <image> \
   sh -c '<ANY-LINUX-COMMAND>'
