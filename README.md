@@ -4,8 +4,9 @@
 2. choose your app and clone it
   * required:
     * [nginx-proxy](https://github.com/salmanwaheed/nginx-proxy)
-    * [phpmyadmin-demo](https://github.com/salmanwaheed/phpmyadmin-demo)
-    * [postgresql-demo](https://github.com/salmanwaheed/postgresql-demo)
+    * [phpmyadmin-demo](https://github.com/salmanwaheed/phpmyadmin-demo), OR
+    * [postgresql-demo](https://github.com/salmanwaheed/postgresql-demo), OR
+    * [mongo-express-demo](https://github.com/salmanwaheed/mongo-express-demo)
   * [nodejs-demo](https://github.com/salmanwaheed/nodejs-demo)
   * [django-demo](https://github.com/salmanwaheed/django-demo)
   * [flask-demo](https://github.com/salmanwaheed/flask-demo)
